@@ -1,4 +1,4 @@
----
+be the winner
 home: true
 heroImage: /bikes.jpg
 heroText: 'Travel Forecasting, Explained'
